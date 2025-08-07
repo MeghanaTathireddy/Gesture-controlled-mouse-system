@@ -4,6 +4,7 @@ A touch-free computer interaction system that uses hand gestures to control your
 
 Features.
 Mouse Control: Move cursor with hand movements.
+
 Click Gestures: Perform left/right clicks.
 Scroll: Vertical and horizontal scrolling.
 System Controls: Adjust volume and screen brightness.
